@@ -1,2 +1,2 @@
-# Meraz-IIT-Bhilai
+# Meraz IIT-Bhilai
 codes for meraz 
